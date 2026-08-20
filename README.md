@@ -1,1 +1,3 @@
 # odin-recipe
+
+This project is a simple Recipe List website I made for my friend Justine Javien built using HTML. It contains a collection of recipe pages that users can navigate through using links. The purpose of this project is to practice fundamental web development concepts such as creating web pages, organizing files and folders, adding images, and linking pages together. By completing this project, I will demonstrate my understanding of basic HTML structure, website navigation, and proper project organization.
